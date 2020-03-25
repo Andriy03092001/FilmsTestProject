@@ -5,6 +5,8 @@
 
 int main() {
 
+	cout << "Test films project" << endl;
+
 	addFilm();
 	showFilms();
 
